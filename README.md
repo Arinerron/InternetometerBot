@@ -1,6 +1,16 @@
 # About
 This is the partial source code for the bot that got me to first place on Internetometer.com.
 
+# How to use
+When compiled, execute:
+```
+java -jar InternetometerBot.jar <id> [optional:threads]
+```
+For example, my internetometer profile URL is http://internetometer.com/give/44772. That means my `<id>` would be `44772`. Example:
+```
+java -jar InternetometerBot.jar 44772 300
+```
+
 # Disclaimers
 - Don't expect this code to be readable. I was never planning on publishing the source code.
 - Some parts of the source code have been modified.
