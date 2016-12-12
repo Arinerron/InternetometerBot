@@ -8,7 +8,7 @@ java -jar InternetometerBot.jar <id> [optional:threads]
 ```
 For example, my internetometer profile URL is http://internetometer.com/give/44772. That means my `<id>` would be `44772`. Example:
 ```
-java -jar InternetometerBot.jar 44772 300
+java -jar InternetometerBot.jar 44772
 ```
 
 # Disclaimers
