@@ -1,6 +1,9 @@
 # About
 This is the partial source code for the bot that got me to first place on Internetometer.com.
 
+# YouTube
+You can watch a demonstration of the bot here: https://www.youtube.com/watch?v=LhoOI5XP16k
+
 # How to use
 When compiled, execute:
 ```
