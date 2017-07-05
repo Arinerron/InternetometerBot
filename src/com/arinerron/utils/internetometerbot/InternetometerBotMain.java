@@ -182,7 +182,10 @@ public class InternetometerBotMain {
 		} catch (Exception e) {
 			InternetometerBotMain.fails++;
 		}
+		
 	}
+	
+	public static void main(String[] args) {
 		InternetometerBotMain.normalWay(args);
 	    // otherWay();
 	}
