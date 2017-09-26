@@ -10,6 +10,8 @@ On linux, execute:
 sh run.sh <id> <optional:#ofthreads>
 ```
 
+On windows, make sure you have both the jre and jdk in your PATH. Then run the batch script at `run.bat`.
+
 # Disclaimers
 - Don't expect this code to be readable. I was never planning on publishing the source code.
 - Some parts of the source code have been modified.
